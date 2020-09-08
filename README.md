@@ -12,7 +12,11 @@
 
 运行
 
-`node ./webpack/compiler.js`，即可在build中发现打包后的文件main.js，该文件可直接在浏览器中运行
+`npm i`
+
+`node ./webpack/compiler.js`
+
+即可在build中发现打包后的文件main.js，该文件内容可直接在浏览器中运行
 
 
 
